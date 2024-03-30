@@ -1,7 +1,7 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
-  "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
-  "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
+  "name": "ALLEN-SIGMA WHATSAPP BOT BY ALLEN OBEROII",
+  "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@Curious_hacker",
+  "logo": "https://telegra.ph/file/379521f005b82d9e89ca3.jpg",
   "keywords": [
     "nodejs",
     "bot",
@@ -18,11 +18,11 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "value": "𝐀𝐥𝐥𝐞𝐧💔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
-      "value": "https://telegra.ph/file/03e49e6e2057568db8926.jpg"
+      "value": "https://telegra.ph/file/379521f005b82d9e89ca3.jpg"
     },
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
@@ -40,7 +40,7 @@
     },
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
-      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off",
+      "value": "Fuck,porn,sex,xxx,fucker,asshole,fuck you,fuck off,MC,Mc,mcBC,Bc,bc,BKL,Bkl,bkl,CHOD,Chod,chod,CHODO,Chodo,chodo,LUND,Lund,lund,CHUT,Chut,chut,CHOOT,Choot,choot,BHOSDA,Bhosda,bhosda,BHOSDI,Bhosdi,bhosdi,BHOXDI,Bhoxdi,bhoxdi,BHOSD3,Bhosd3,bhosd3,BSDK,Bsdk,bsdk,PUSSY,Pussy,pussy,DICK,Dick,dick,BUMR,Bumr,bumr,GAND,Gand,gand,TMKC,Tmkc,tmkc,LODA,Loda,loda,LODU,Lodu,lodu,XXX,Xxx,xxx,PORN,Porn,porn,SEX,Sex,sexMILF,Milf,milf,FUCK,Fuck,fuck,FUCKER,Fucker,fucker,GAND,Gand,gand,G4ND,RANDI,Randi,randi,RAMDI,Ramdi,ramdi,RANDWA,Randwa,randwa,BETICHOD,Betichod,betichod,MADARCHOD,Madarchod,madarchod,BHENCHOD,Bhenchod,bhenchod,BKL,Bkl,bkl,HIJDI,Hijdi,hijdi,BUMR,Bumr,bumr,BAKACHODA,Bakachoda,bakachoda,chat.whatsapp.com,https",
       "required": false
     },
     "MSGS_IN_LOG": {
@@ -59,7 +59,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "918318542882"
     },
     "SESSION_ID": {
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
@@ -71,34 +71,34 @@
     },
     "MONGODB_URI": {
       "description": "Add Your Own MongoDb Key, Its a DataBase For Bot, Your Bot Will Not Run Without MongoDb Url",
-      "value": ""
+      "value": "mongodb+srv://Allen69:XEy6hObcrZgmeuEE@allen69.0qvegkr.mongodb.net/?retryWrites=true&w=majority"
     },
     "WORKTYPE": {
       "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
-      "value": "public"
+      "value": "private"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "sɪɢᴍᴀ-ᴍᴅ",
+      "value": "𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀(tuta hua hu pahle se ab aur kya todoge? ab to chehre pe bs khamoshi rhti hai😌..mn shant ho gya hai itna ro chuka life mai🖤🥀)",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author Name.",
-      "value": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
+      "value": "💕👀𝑳𝑶𝑽𝑬 𝒀𝑶𝑼 𝑫𝑨𝑹𝑳𝑰𝑵𝑮🙈😚#𝑫****🥹✨🌎",
       "required": false
     },
     "MZTIT": {
       "description": "Add Your Title, One Word Will BE More Better And BeautiFul",
-      "value": "🅼♥︎❚❚♥︎🆉",
+      "value": "𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
       "required": false
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "india/kolkata"
     },
     "BOT_NAME": {
       "description": "Add Your Own Bot Name",
-      "value": "sɪɢᴍᴀ-ᴍᴅ"
+      "value": "😔𝐀𝐥𝐥𝐞𝐧💔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀"
     }
   },
   "addons": [
