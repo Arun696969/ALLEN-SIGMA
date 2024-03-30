@@ -1,7 +1,7 @@
 {
     "__JSON__": true,
-    "AUTHOR": "Maher Zubair",
-    "theme": "SIGMA-MD",
+    "AUTHOR": "𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
+    "theme": "𝐀𝐥𝐥𝐞𝐧😌𝐎𝐛𝐞𝐫𝐨𝐢𝐢💔",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -11,9 +11,9 @@
             "UPDATED_LOCAL": "*Updated Successfully !*"
         },
         "global": { 
-            "botName": " SIGMA-MD",
+            "botName": "😔𝐀𝐥𝐥𝐞𝐧🖤𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
             "body": "whatsapp Bot",
-            "greet2" : "Thanks To Maher Zubair",
+            "greet2" : "Thanks To 𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
             "pic1": "https://telegra.ph/file/693d471682edefa187dae.jpg",
             "pic2": "https://telegra.ph/file/03e49e6e2057568db8926.jpg",
             "pic3": "https://telegra.ph/file/2ca599cf20ac50ba941f6.jpg",
@@ -27,34 +27,34 @@
             "greet" : "Believe it",
             "dotbody" : "I decided being to be King.",
             "emojii" : "👑",
-            "promote": "Admin Role Given to Zubi",
-            "pmallow": "*Hi,This is Maher Zubair\n You have been blocked for spamming.",
-            "pmwarn": "Hi* \nPlease don't spam else I'll block you for spamming.\nJoin Support Group:\n https://chat.whatsapp.com/JM1yBMlveulDrAN22jHcWV\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
+            "promote": "Admin Role Given to 𝐀𝐥𝐥𝐞𝐧😌𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
+            "pmallow": "*Hi,This is 𝐀𝐥𝐥𝐞𝐧🙂𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀\n You have been blocked for spamming.",
+            "pmwarn": "Oye* \ndon't spam else I'll block you for spamming.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
             "permited": "Hi\n\nNow You are permitted by my owner to pm now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*", 
             "revoked" : "*Hi*\nYour pm permit permission has been revoked now.\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
             "demote": "Admin Role Taken back",
             "antlink": "Link Detected.\n*_Good Bye IDiot_*",
             "session": "*This is your session.json,keep it safe*\n*_Now Upload This json file in Your Forked Repo_*\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*⤹★ᴘᴏᴡᴇʀᴇᴅ ʙʏ★⤸ sɪɢᴍᴀ ᴹᴰ*",
-            "mention": " Please mention My Owner",
-            "title": "sɪɢᴍᴀ ᴹᴰ",
-            "theme": "SIGMA-MD",
-            "footer": "ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ\nwww.youtube.com",
+            "mention": "Please mention My😌Owner💔🥀",
+            "title": "😔𝐀𝐥𝐥𝐞𝐧💔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀",
+            "theme": "—͟͞͞★💔Ꭺ𝕝𝕝ԑn🥀—͟͞͞★",
+            "footer": "𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀\nwww.youtube.com/@Curious_hacker",
             "by": "Made by: ᴍᴀʜᴇʀ ᴢᴜʙᴀɪʀ",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
-            "success": "Done ✓",
+            "success": "Done😌🥀✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating MF",
             "couple_male": "*I'm pretty sure I can't live without being helped!*",
             "couple_female": "*I'm pretty sure I can't live without being helped!*",
-            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ ᴀᴅᴍɪɴ!",
+            "admin": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ 𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀!",
             "botAdmin": "ᴘʟᴇᴀsᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ ᴀᴅᴍɪɴ ʀᴏʟᴇ.!",
-            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
+            "owner": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ 𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀!",
             "group": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ɢʀᴏᴜᴘ!",
-            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
-            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ ᴍʏ ᴏᴡɴᴇʀ!",
-            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ"
+            "private": "ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ɪs ᴏɴʟʏ ғᴏʀ 𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀!",
+            "bot": "ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴏɴʟʏ ғᴏʀ 𝐀𝐥𝐥𝐞𝐧😔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀!",
+            "wait": "ᴘʀᴏᴄᴇssɪɴɢ ʏᴏᴜʀ ʀᴇᴏ̨ᴜᴇsᴛ💔🥀"
         },
         "error": {
-            "text": "*_You Idiot tried To Edit ME_*\nNow go get this Error fixed*"
+            "text": "*_You Idiot tried To Edit ME_*\nNow go get this Error🙂💔🥀fixed*"
         }
     }
   }
