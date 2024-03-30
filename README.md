@@ -1,23 +1,23 @@
 
-<h1 align="center"> sɪɢᴍᴀ-ᴍᴅ </h1>
+<h1 align="center"> 😌𝐀𝐥𝐥𝐞𝐧💔𝐎𝐛𝐞𝐫𝐨𝐢𝐢🥀 </h1>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+  <a href="https://www.youtube.com/@Curious_hacker">
+    <img alt=Support height="350" src="https://telegra.ph/file/379521f005b82d9e89ca3.jpg"> 
     </p>
     <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair">
+  <a href="https://github.com/Arun696969">
     <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
+   <a href="https://github.com/Arun696969/ALLEN-SIGMA/fork">
     <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
+  <a href="https://github.com/Arun696969/ALLEN-SIGMA/stargazers"> 
      <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
@@ -29,21 +29,21 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+<a href="https://github.com/Arun696969"><img title="Owner" src="https://img.shields.io/badge/OWNER-Allen_Oberoii-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
 
 <p align="center"> 
-    <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1" target="_blank">
+    <a aria-label="Subscribe Me" href="https://www.youtube.com/@Curious_hacker" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
-    <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m" target="_blank">
+    <a aria-label="Join our chats" href="https://chat.whatsapp.com/Gss1qXctVazIfSC4WlfBTR" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
-<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="𝐀𝐥𝐥𝐞𝐧 𝐎𝐛𝐞𝐫𝐨𝐢𝐢 :: Visitor's Count" /></p>
 
 ##
-***Why Choose SIGMA-MD, Must Check Bot Features And ChangeLog***
+***Why Choose ALLEN-SIGMA, Must Check Bot Features And ChangeLog***
  <details close>
 <summary>𝘽𝙊𝙏 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎</summary>
    
@@ -63,14 +63,14 @@
  <details close>
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
-- ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
+- ***ALLEN-SIGMA v1.5.3 Releases, 6 March,2024***
 - *Fixed `All Ai` Commands*
 - *Fixed `Spotify` Command*
 - *Fixed `All Anime` Commands*
 - *Fixed `Insta,Fb,Tiktok` Commands*
 - *Fixed All Not Working Commands, Due To Api*
 - *Added My Own Api In Bot https://api.maher-zubair.tech*
-- ***SIGMA-MD v1.4.9 Releases, 16 Feb,2024***
+- ***ALLEN-SIGMA v1.4.9 Releases, 16 Feb,2024***
 - *Added `Pair Code` For Session ID*
 - *Added New `Session ID` For Bot*
 - *Added New `Qr`*
@@ -139,13 +139,13 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
+2. ***Click [FORK](https://github.com/Arun696969/ALLEN-SIGMA/fork)***
 3. ***Get Your [SESSION ID](https://session.maher-zubair.tech)***
-4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
-5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
-6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***
-7. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
-8. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
+4. ***Get Your [Mongodb](mongodb+srv://Allen69:XEy6hObcrZgmeuEE@allen69.0qvegkr.mongodb.net/?retryWrites=true&w=majority) Url***
+5. ***Deploy on [Heroku](https://Arun696969/Bot/deploy/heroku)***
+6. ***Deploy on [Replit](https://Arun696969.tech/Bot/deploy/replit)***
+7. ***Deploy on [Railway](https://Arun696969/Bot/deploy/railway)***
+8. ***Deploy on [Codespace](https://Arun696969/Bot/deploy/codespace)***
 9. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
 10. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
 ##
@@ -160,8 +160,8 @@
 
 
 - ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
-- ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
+- ***The [SIGMA-MD](https://github.com/Arun696969/ALLEN-SIGMA) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/ALLEN-SIGMA/blob/main/LICENSE).***
+- ***[Apache-2.0 license](https://github.com/Arun696969/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
 ### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
@@ -175,4 +175,4 @@
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [ALLEN OBER](https://github.com/Maher-Zubair)***
