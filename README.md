@@ -6,7 +6,7 @@
     <img alt=Support height="350" src="https://telegra.ph/file/379521f005b82d9e89ca3.jpg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+ALLEN-SIGMA;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALLEN+OBEROII;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
