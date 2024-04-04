@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Arun696969"><img title="Owner" src="https://i.imgur.com/wjgnKa3.jpeg" width="173px" height="29"></a>
+<a href="https://github.com/Arun696969"><img title="Owner" src="https://img.shields.io/badge/OWNER-Allen_Oberoii-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
