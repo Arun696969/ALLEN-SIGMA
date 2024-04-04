@@ -141,12 +141,12 @@
 2. ***Click [FORK](https://github.com/Arun696969/ALLEN-SIGMA/fork)***
 3. ***Get Your [SESSION ID](https://session.maher-zubair.tech)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
-5. ***Deploy on [Heroku](https://Arun696969/Bot/deploy/heroku)***
+5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
 6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***
 7. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
 8. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
 9. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
-10. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
+10. ***Install [External Plugins](https://github.com/Arun696969/SIGMA-MD_Plugins)***
 ##
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
@@ -159,7 +159,7 @@
 
 
 - ***Star ⭐ My Repo If You Like SIGMA-MD.***
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
+- ***The [ALLEN-SIGMA](https://github.com/Arun696969/ALLEN-SIGMA) is Made Under The [Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
@@ -167,11 +167,11 @@
 - ***Everyone***
 - ***Who Helped Me***
 - ***Who Uses This Bot And Supports Me***
-- ***Support Me By Buying Me A [Coffee](https://buymeacoffee.com/Maher_Zubair)***
+- ***Support Me By Buying Me A [Coffee](https://buymeacoffee.com/Arun696969)***
 
 ## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
 
 - *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
 - *If Someone Modify My Bot Or Try To Copy It I Will Instantly Give Legal Copy Right Strike And Ban That User Repo And Account*
 - *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and And Got Banned*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+- ***Regards [ALLEN OBEROII](https://github.com/Arun696969)***
