@@ -1,25 +1,25 @@
-<h1 align="center"> sɪɢᴍᴀ-ᴍᴅ </h1>
+<h1 align="center"> 𝐀𝐥𝐥𝐞𝐧-sɪɢᴍᴀ </h1>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
+  <a href="https://www.youtube.com/@Curious_hacker?sub_confirmation=1">
+    <img alt=Support height="350" src="https://i.imgur.com/wjgnKa3.jpeg"> 
     </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+SIGMA-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+MAHER+ZUBAIR;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THE+ALLEN-SIGMA;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ALLEN+OBEROII;RELEASED+DATE+1%2F10%2F2023." alt="Typing SVG" /></a>
   </p>
 
 <p align="center">
-  <a href="https://github.com/Maher-Zubair">
+  <a href="https://github.com/Arun696969">
     <img src="https://img.shields.io/github/followers/Maher-Zubair?style=flat-square&logo=github&color=black">
 
-   <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
+   <a href="https://github.com/Arun696969/ALLEN-SIGMA/fork">
     <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
     
     
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
+  <a href="https://github.com/Arun696969/ALLEN-SIGMA/stargazers"> 
      <img src="https://img.shields.io/github/stars/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/watchers"> 
+  <a href="https://github.com/Arun696969/ALLEN-SIGMA/watchers"> 
      <img src="https://img.shields.io/github/watchers/Maher-Zubair/SIGMA-MD?style=flat-square&logo=github&color=black">
 
   </a>
@@ -28,7 +28,7 @@
 
 
 <p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/OWNER-Maher_Zubair-black?style=flat-square&logo=github&label=owner" width="173px" height="29"></a>
+<a href="https://github.com/Arun696969"><img title="Owner" src="https://i.imgur.com/wjgnKa3.jpeg" width="173px" height="29"></a>
   <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENSE"><img title="Owner" src="https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?style=flat-square&color=black&link=https%3A%2F%2Fgithub.com%2FMaher-Zubair%2FSIGMA-MD%2Fblob%2Fmain%2FLICENS" width="173px" height="29"></a>
 
 
