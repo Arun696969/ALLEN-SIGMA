@@ -34,7 +34,7 @@
 
 
 <p align="center"> 
-    <a aria-label="Subscribe Me" href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1" target="_blank">
+    <a aria-label="Subscribe Me" href="https://www.youtube.com/@Curious_hacker?sub_confirmation=1" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Subscribe My Yt-red?style=for-the-badge&logo=youtube&logoColor=white" />
     <a aria-label="Join our chats" href="https://whatsapp.com/channel/0029VaGvk6XId7nHNGfiRs0m" target="_blank">
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
