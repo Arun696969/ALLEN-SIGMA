@@ -146,7 +146,7 @@
 7. ***Deploy on [Railway](https://maher-zubair.tech/Bot/deploy/railway)***
 8. ***Deploy on [Codespace](https://maher-zubair.tech/Bot/deploy/codespace)***
 9. ***Watch [Tutorials](https://maher-zubair.tech/Bot/Tutorials) If You Need Help***
-10. ***Install [External Plugins](https://github.com/Arun696969/SIGMA-MD_Plugins)***
+10. ***Install [External Plugins](https://github.com/Maher-Zubair/SIGMA-MD_Plugins)***
 ##
 
 - ***Strictly! Use Your Own MongoDB Key, It's DataBase For Bot.***
