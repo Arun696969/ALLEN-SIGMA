@@ -138,7 +138,7 @@
 
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
+2. ***Click [FORK](https://github.com/Arun696969/ALLEN-SIGMA/fork)***
 3. ***Get Your [SESSION ID](https://session.maher-zubair.tech)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
 5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
